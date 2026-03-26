@@ -64,6 +64,8 @@ The sprint venue and accommodation details are being finalised, but will be on o
 \
 The Edgbaston campus is 3 miles South-West of Birmingham city centre. It is reachable by train from nearby European countries, or by plane to Birmingham International (BHX) or other UK airports. See the [travel information](https://www.birmingham.ac.uk/contact/directions/getting-here-edgbaston) and [visa](https://www.gov.uk/check-uk-visa) information for international visitors.
 
+As travel funding is available, in-person participation is the default. However a small number of remote participants may be accommodated in exceptional circumstances (e.g. intermediate/advanced contributors with a low chance of a successful visa application). There is space to make a case for remote participation on the application form.
+
 ## What's on nearby
 
 Participants may be interested to know of these events happening close to the sprint:
@@ -108,7 +110,7 @@ We are coordinating with the [R Contribution Working Group](https://contributor.
 
 For queries about this event, please contact [h.l.turner\@bham.ac.uk](mailto:h.l.turner@bham.ac.uk).
 
-## Sponsors
+## Sponsors {#sponsors}
 
 ### Core funding
 
