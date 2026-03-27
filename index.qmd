@@ -96,8 +96,8 @@ person_info(name = "Heather Turner",
 ```{r, results = "asis"}
 person_info(name = "Ella Kaye",
             affiliation = "Research Software Engineer",
-            pic = "media/ella_profile.jpg",
-            alt = "Headshot of Ella outside in the sun, smiling, looking slightly off-camera. She is a white woman in her 40s with short dark hair.",
+            pic = "media/ella_kaye.jpeg",
+            alt = "Headshot of Ella against a white background, smiling. She is a white woman in her 40s with short dark hair.",
             website = "https://ellakaye.co.uk",
             email = "e.kaye.1@bham.ac.uk")
 ```
