@@ -52,7 +52,7 @@ We are also keen to foster a diverse community of contributors. If you are a mem
 
 ## Apply for a place
 
-Anyone one interested to attend the sprint is encouraged to self-nominate via the [application form](https://rfoundation.limequery.com/837944?lang=en) by **Friday 8 May**. You will be asked about your experience, skills and background to help us balance participation overall.
+Anyone interested to attend the sprint is encouraged to self-nominate via the [application form](https://rfoundation.limequery.com/837944?lang=en) by **Friday 8 May**. You will be asked about your experience, skills and background to help us balance participation overall.
 
 Thanks to our [sponsors](#sponsors), meals will be provided for all participants for the duration of the sprint.
 

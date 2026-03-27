@@ -53,7 +53,7 @@ The organizing team reserves the right to determine the appropriate response for
 
 Alert the organizing team if you notice someone in distress, or observe violations of this code of conduct, even if they seem inconsequential.
 
-Reports should be addressed to [r-project-sprint-coc\@groups.io](mailto:r-project-sprint-coc@groups.io). If the report concerns someone on the [local](/index#local-organizing-team)[ organizing team](/index#Local-organizing-team), please contact other members of the team directly. \
+Reports should be addressed to [r-project-sprint-coc\@groups.io](mailto:r-project-sprint-coc@groups.io). If the report concerns someone on the [local](/index#local-organizing-team)[organizing team](/index#Local-organizing-team), please contact other members of the team directly.\
 \
 <!-- If you still have concerns about a conflict of interest, you are welcome to contact ... -->
 
