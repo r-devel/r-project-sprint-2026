@@ -15,7 +15,7 @@ source(file.path("R", "functions.R"))
 
 We are pleased to announce another R Project Sprint, to be hosted at the University of Birmingham, UK, from Tuesday September 1 to Thursday September 3. Novice and experienced contributors are encouraged to apply for a place at the residential event, with funding available for travel (deadline **Friday 8 May**). Read on for more! **#RSprint2026**
 
-<!-- <center>![A group of 11 people around a long table with a large screen at one end and a big window behind. People are general busy working on laptops, writing on notepads, etc.](warwick-university-faculty-of-arts-building-768x381-compact.jpg){alt="A group of 11 people around a long table with a large screen at one end and a big window behind. People are general busy working on laptops, writing on notepads, etc." style="height:400px"}<br> <small>Breakout space in the Faculty of Arts Building, University of Warwick ©Hufton+Crow<br><br></small></center> -->
+![](media/group_friday.jpg){fig-alt="A group photo of participants at R Project Sprint 2023" fig-align="center"}
 
 ## About the sprint
 
