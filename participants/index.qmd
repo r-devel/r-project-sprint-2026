@@ -1,0 +1,48 @@
+---
+title: "Participants"
+---
+
+Participants with an asterisk (\*) participated remotely, while participants with a caret (\^) were ultimately unable to participate due to travel disruption or other circumstances.
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+source(file.path("..", "R", "functions.R"))
+```
+
+## R Core Team
+
+::::::::::::::: participant-gallery
+::: {}
+```{r, results = "asis"}
+participant_info(name = "Heather Turner",
+                 affiliation = "University of Birmingham",
+                 pic = "/media/heather_turner.jpg",
+                 alt = "Headshot of Heather Turner",
+                 web = "https://warwick.ac.uk/heatherturner",
+                 link = "https://warwick.ac.uk/heatherturner",
+                 mastodon = "https://fosstodon.org/@HeathrTurnr",
+                 github = "https://github.com/hturner",
+                 linkedin = "https://www.linkedin.com/in/heathrturnr/",
+                 orcid = "https://orcid.org/0000-0002-1256-3375")
+```
+:::
+:::::::::::::::
+
+## R Contributors
+
+::::::::::::::::::::::::::::::::::::::::::::::::: participant-gallery
+::: {}
+```{r, results = "asis"}
+participant_info(name = "Ella Kaye",
+            affiliation = "University of Birmingham",
+            pic = "/media/ella_kaye.jpeg",
+            alt = "Headshot of Ella Kaye",
+            web = "https://ellakaye.co.uk",
+            link = "https://ellakaye.co.uk",
+            mastodon = "https://fosstodon.org/@ellakaye",
+            linkedin = "https://www.linkedin.com/in/EllaKaye/",
+            github = "https://github.com/EllaKaye")
+```
+:::
+
+:::::::::::::::::::::::::::::::::::::::::::::::::
