@@ -2,6 +2,12 @@
 title: "Participants"
 ---
 
+::: {.callout-caution}
+## Page in progress
+
+We are in the process of adding participants to this page!
+:::
+
 Participants with an asterisk (\*) participated remotely, while participants with a caret (\^) were ultimately unable to participate due to travel disruption or other circumstances.
 
 ```{r setup, include=FALSE}
