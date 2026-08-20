@@ -9,7 +9,9 @@ website:
       - href: code-of-conduct.qmd
         text: Code of Conduct
       - href: participants/index.qmd
-        text: Participants        
+        text: Participants 
+      - href: schedule.qmd
+        text: Schedule  
     right:
       - icon: mastodon
         href: https://mastodon.cloud/tags/RSprint2026
