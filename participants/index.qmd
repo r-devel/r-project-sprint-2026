@@ -402,6 +402,13 @@ participant_info(name = "Mauricio Vargas Sepulveda",
 
 ::: {}
 ```{r, results = "asis"}
+participant_info(name = "Mossa Merhi Reimert*",
+            affiliation = "A2-AI")
+```
+:::
+
+::: {}
+```{r, results = "asis"}
 participant_info(name = "Nicholas Cooley*",
                  affiliation = "University of Limerick")
 ```
