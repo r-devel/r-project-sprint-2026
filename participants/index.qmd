@@ -279,7 +279,7 @@ participant_info(name = "Gabriel Becker",
 ::: {}
 ```{r, results = "asis"}
 participant_info(name = "Gergely Daroczi",
-                 affiliation = "Rx Studio",
+                 affiliation = "Spare Cores",
                  pic = "/media/headshot-gergely_daroczi.jpg",
                  alt = "Headshot of Gergely Daroczi",
                  web = "https://daroczig.github.io", # main website
