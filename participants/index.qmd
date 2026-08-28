@@ -326,7 +326,7 @@ participant_info(name = "Jeroen Ooms",
 ::: {}
 ```{r, results = "asis"}
 participant_info(name = "Jyoti Satnam Singh Bhogal",
-                 affiliation = "OLS (formerly Open Life Science) | RSE Asia Association",
+                 affiliation = "OLS | RSE Asia Association",
                  pic = "/participants/optimized/CNCY3-Jyoti_Satnam_Singh_Bhogal.jpg",
                  alt = "Headshot of Jyoti Satnam Singh Bhogal",
                  web = "https://jyoti-bhogal.github.io/about-me/index.html", # main website
