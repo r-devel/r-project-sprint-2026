@@ -12,6 +12,8 @@ website:
         text: Participants 
       - href: schedule.qmd
         text: Schedule  
+      - href: travel.qmd
+        text: Travel  
     right:
       - icon: mastodon
         href: https://mastodon.cloud/tags/RSprint2026
