@@ -113,10 +113,87 @@ participant_info(name = "Thomas Lumley",
 
 ::::
 
+## Bug Triage and Patch Team
+
+:::: participant-gallery
+::: {}
+```{r, results = "asis"}
+participant_info(name = "Gabriel Becker",
+            affiliation = "Independent",
+            pic = "/participants/optimized/UMHND-gabriel-becker.jpg",
+            alt = "Headshot of Gabriel Becker",
+            web = NULL,
+            link = NULL,
+            mastodon = NULL,
+            linkedin = NULL,
+            github = NULL)
+```
+:::
+
+::: {}
+```{r, results = "asis"}
+participant_info(name = "Ivan Krylov*",
+                 affiliation = "Lomonosov Moscow State University")
+```
+:::
+
+::: {}
+```{r, results = "asis"}
+participant_info(name = "Jeroen Ooms",
+                 affiliation = "rOpenSci",
+                 pic = "/participants/optimized/DMKXZ-jeroen_ooms.jpg",
+                 alt = "Headshot of Jeroen Ooms",
+                 web = "https://github.com/jeroen", # main website
+                 github = "https://github.com/jeroen",
+                 mastodon = "https://fosstodon.org/@jeroenooms")
+```
+:::
+
+::: {}
+```{r, results = "asis"}
+participant_info(name = "Kevin Ushey*",
+                 affiliation = "Posit Software, PBC")
+```
+:::
+
+::: {}
+```{r, results = "asis"}
+participant_info(name = "Kylie Bemis*",
+            affiliation = "Northeastern University",
+            pic = "/participants/optimized/KFNSM-kylie_bemis.jpg",
+            alt = "Headshot of Kylie Bemis",
+            web = NULL,
+            link = NULL,
+            mastodon = NULL,
+            linkedin = NULL,
+            github = "https://kuwisdelu.github.io")
+```
+:::
+
+::: {}
+```{r, results = "asis"}
+participant_info(name = "Lluís Revilla*",
+            affiliation = "Roche",
+            alt = "Headshot of Lluís Revilla",
+            web = "https://llrs.dev",
+            link = "https://llrs.dev",
+            mastodon = "https://fosstodon.org/@Lluis_Revilla",
+            linkedin = NULL,
+            github = NULL)
+```
+:::
 
 
+::: {}
+```{r, results = "asis"}
+participant_info(name = "Mossa Merhi Reimert*",
+            affiliation = "A2-AI")
+```
+:::
 
-## R Contributors
+::::
+
+## General R Contributors
 
 :::: participant-gallery
 
@@ -264,20 +341,6 @@ participant_info(name = "Fernando Corrêa*",
 
 ::: {}
 ```{r, results = "asis"}
-participant_info(name = "Gabriel Becker",
-            affiliation = "Independent",
-            pic = "/participants/optimized/UMHND-gabriel-becker.jpg",
-            alt = "Headshot of Gabriel Becker",
-            web = NULL,
-            link = NULL,
-            mastodon = NULL,
-            linkedin = NULL,
-            github = NULL)
-```
-:::
-
-::: {}
-```{r, results = "asis"}
 participant_info(name = "Gergely Daroczi",
                  affiliation = "Spare Cores",
                  pic = "/media/headshot-gergely_daroczi.jpg",
@@ -306,25 +369,6 @@ participant_info(name = "Hannah Frick",
 
 ::: {}
 ```{r, results = "asis"}
-participant_info(name = "Ivan Krylov*",
-                 affiliation = "Lomonosov Moscow State University")
-```
-:::
-
-::: {}
-```{r, results = "asis"}
-participant_info(name = "Jeroen Ooms",
-                 affiliation = "rOpenSci",
-                 pic = "/participants/optimized/DMKXZ-jeroen_ooms.jpg",
-                 alt = "Headshot of Jeroen Ooms",
-                 web = "https://github.com/jeroen", # main website
-                 github = "https://github.com/jeroen",
-                 mastodon = "https://fosstodon.org/@jeroenooms")
-```
-:::
-
-::: {}
-```{r, results = "asis"}
 participant_info(name = "Jyoti Satnam Singh Bhogal",
                  affiliation = "OLS | RSE Asia Association",
                  pic = "/participants/optimized/CNCY3-Jyoti_Satnam_Singh_Bhogal.jpg",
@@ -334,40 +378,6 @@ participant_info(name = "Jyoti Satnam Singh Bhogal",
                  github = "https://github.com/jyoti-bhogal",
                  mastodon = NULL,
                  linkedin = "https://www.linkedin.com/in/jyoti-bhogal/")
-```
-:::
-
-::: {}
-```{r, results = "asis"}
-participant_info(name = "Kevin Ushey*",
-                 affiliation = "Posit Software, PBC")
-```
-:::
-
-::: {}
-```{r, results = "asis"}
-participant_info(name = "Kylie Bemis*",
-            affiliation = "Northeastern University",
-            pic = "/participants/optimized/KFNSM-kylie_bemis.jpg",
-            alt = "Headshot of Kylie Bemis",
-            web = NULL,
-            link = NULL,
-            mastodon = NULL,
-            linkedin = NULL,
-            github = "https://kuwisdelu.github.io")
-```
-:::
-
-::: {}
-```{r, results = "asis"}
-participant_info(name = "Lluís Revilla*",
-            affiliation = "Roche",
-            alt = "Headshot of Lluís Revilla",
-            web = "https://llrs.dev",
-            link = "https://llrs.dev",
-            mastodon = "https://fosstodon.org/@Lluis_Revilla",
-            linkedin = NULL,
-            github = NULL)
 ```
 :::
 
@@ -398,14 +408,6 @@ participant_info(name = "Mauricio Vargas Sepulveda",
             linkedin = NULL,
             github = "https://github.com/pachadotdev")
 ```
-:::
-
-::: {}
-```{r, results = "asis"}
-participant_info(name = "Mossa Merhi Reimert*",
-            affiliation = "A2-AI")
-```
-:::
 
 ::: {}
 ```{r, results = "asis"}
