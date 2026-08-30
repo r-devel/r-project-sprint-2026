@@ -408,6 +408,7 @@ participant_info(name = "Mauricio Vargas Sepulveda",
             linkedin = NULL,
             github = "https://github.com/pachadotdev")
 ```
+:::
 
 ::: {}
 ```{r, results = "asis"}
