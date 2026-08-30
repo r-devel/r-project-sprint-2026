@@ -4,96 +4,89 @@ title: "Schedule"
 
 ## Programme
 
-The main programme runs from **09:00 UTC+1, Tuesday 1 September to 15:00 UTC+1, 
-Thursday 3 September**. 
-All whole group sessions will be hybrid, with invites sent directly to remote participants.
+The main programme runs from **09:00 UTC+1, Tuesday 1 September to 15:00 UTC+1, Thursday 3 September**. All whole group sessions will be hybrid, with invites sent directly to remote participants.
 
-The closing session will be followed by a coffee break and participants can stay in 
-the venue till 17:30 to work or socialise as they wish.
+The closing session will be followed by a coffee break and participants can stay in the venue till 17:30 to work or socialise as they wish.
 
-People staying till the Friday can choose to join a self-funded dinner, which 
-we'll organise at an on-campus pub/restaurant. 
+People staying till the Friday can choose to join a self-funded dinner, which we'll organise at an on-campus pub/restaurant.
 
-On the Friday, there is a satellite meeting of people from the R Core Team, 
-the RSMF Project and the Triage Team (invite only).
+On the Friday, there is a satellite meeting of people from the R Core Team, the RSMF Project and the Triage Team (invite only).
 
 ::: panel-tabset
 ### Tue 1 Sep
 
-| Time (BST)    | Event            | Venue                        |
-|---------------|------------------|------------------------------|
-| 09:00 - 10:30 | Kick-off day 1   | 4.15                         |
-| 10:30 - 11:00 | Coffee           | Breakout lounge              |
-| 11:00 - 12:30 | Small groups     | 4.15/Breakout spaces         |
-| 12:30 - 13:30 | Lunch            | Breakout lounge              |
-| 13:30 - 15:00 | Small groups     | 4.15/Breakout spaces         |
-| 15:00 - 15:30 | Coffee           | Breakout lounge              |
-| 15:30 - 17:00 | Small groups     | 4.15/Breakout spaces         |                                                         
-| 17:00 - 17:30 | Report back      | 4.15                         |
-| 18:30 - 20:00 | Buffet dinner    | Breakout lounge              |
+| Time (BST)    | Event          | Venue                |
+|---------------|----------------|----------------------|
+| 09:00 - 10:30 | Kick-off day 1 | 4.15                 |
+| 10:30 - 11:00 | Coffee         | Breakout lounge      |
+| 11:00 - 12:30 | Small groups   | 4.15/Breakout spaces |
+| 12:30 - 13:30 | Lunch          | Breakout lounge      |
+| 13:30 - 15:00 | Small groups   | 4.15/Breakout spaces |
+| 15:00 - 15:30 | Coffee         | Breakout lounge      |
+| 15:30 - 17:00 | Small groups   | 4.15/Breakout spaces |
+| 17:00 - 17:30 | Report back    | 4.15                 |
+| 18:30 - 20:00 | Buffet dinner  | Breakout lounge      |
 
 ### Wed 2 Sep
 
-| Time (BST)    | Event                   | Venue                       |
-|---------------|-------------------------|-----------------------------|
-| 09:00 - 09:30 | Kick-off day 2          | 4.15                        |
-| 10:00 - 10:30 | Small groups            | 4.15/Breakout spaces        |
-| 10:30 - 11:00 | Coffee                  | Breakout lounge             |
-| 11:00 - 12:30 | Small groups            |  4.15/Breakout spaces       |
-| 12:30 - 13:30 | Lunch                   | Breakout lounge             |
-| 13:30 - 15:00 | Small groups            | 4.15/Breakout spaces        |
-| 15:00 - 15:30 | Coffee with UoB RUG     | Breakout lounge             |
-| 15:30 - 16:30 | UoB RUG (report back)   | 4.15                        |                                                         
-| 16:30 - 17:30 | Co-working with UoB RUG | 4.15                        |
-| 18:30 - 20:00 | Buffet dinner           | Breakout lounge             |
+| Time (BST)    | Event                   | Venue                |
+|---------------|-------------------------|----------------------|
+| 09:00 - 09:30 | Kick-off day 2          | 4.15                 |
+| 10:00 - 10:30 | Small groups            | 4.15/Breakout spaces |
+| 10:30 - 11:00 | Coffee                  | Breakout lounge      |
+| 11:00 - 12:30 | Small groups            | 4.15/Breakout spaces |
+| 12:30 - 13:30 | Lunch                   | Breakout lounge      |
+| 13:30 - 15:00 | Small groups            | 4.15/Breakout spaces |
+| 15:00 - 15:30 | Coffee with UoB RUG     | Breakout lounge      |
+| 15:30 - 16:30 | UoB RUG (report back)   | 4.15                 |
+| 16:30 - 17:30 | Co-working with UoB RUG | 4.15                 |
+| 18:30 - 20:00 | Buffet dinner           | Breakout lounge      |
 
 ### Thu 3 Sep
 
-| Time (BST)    | Event                  | Venue                        |
-|---------------|------------------------|------------------------------|
-| 09:00 - 09:30 | Kick-off day 3         | 4.15                         |
-| 10:00 - 10:30 | Small groups           | 4.15/Breakout spaces         |
-| 10:30 - 11:00 | Coffee                 | Breakout lounge              |
-| 11:00 - 12:30 | Small groups           | 4.15/Breakout spaces         |
-| 12:30 - 13:30 | Lunch                  | Breakout lounge              |
-| 13:30 - 14:30 | Small groups           | 4.15/Breakout spaces         |
-| 14:30 - 15:00 | CLOSING SESSION        | 4.15                         |
-| 15:00 - 15:30 | Coffee                 | Breakout lounge              |
-| 15:30 - 17:30 | Optional wrap-up work  | 4.15/Breakout spaces         |                                                         
-| 19:00 - late  | Self-funded dinner     | TBD                          |
+| Time (BST)    | Event                 | Venue                |
+|---------------|-----------------------|----------------------|
+| 09:00 - 09:30 | Kick-off day 3        | 4.15                 |
+| 10:00 - 10:30 | Small groups          | 4.15/Breakout spaces |
+| 10:30 - 11:00 | Coffee                | Breakout lounge      |
+| 11:00 - 12:30 | Small groups          | 4.15/Breakout spaces |
+| 12:30 - 13:30 | Lunch                 | Breakout lounge      |
+| 13:30 - 14:30 | Small groups          | 4.15/Breakout spaces |
+| 14:30 - 15:00 | CLOSING SESSION       | 4.15                 |
+| 15:00 - 15:30 | Coffee                | Breakout lounge      |
+| 15:30 - 17:30 | Optional wrap-up work | 4.15/Breakout spaces |
+| 19:00 - late  | Self-funded dinner    | TBD                  |
 
 ### Fri 4 Sep
 
-| Time (BST)    | Event                           | Venue                        |
-|---------------|---------------------------------|------------------------------|
-| 09:00 - 12:00 | R Core/RSMF/Triagers Session 1  | G24                          |
-| 12:00 - 14:00 | Lunch                           | TBD                          |
-| 14:00 - 15:30 | R Core/RSMF/Triagers Session 2  | G24                          |
+| Time (BST)    | Event                          | Venue |
+|---------------|--------------------------------|-------|
+| 09:00 - 12:00 | R Core/RSMF/Triagers Session 1 | G24   |
+| 12:00 - 14:00 | Lunch                          | TBD   |
+| 14:00 - 15:30 | R Core/RSMF/Triagers Session 2 | G24   |
 :::
 
 ## Venue
 
 Key venues of the sprint:
 
--   [PHTA](https://phta.co.uk/meeting-rooms/) - main sprint venue
--   [Computer Centre (Elms Road)](https://campusmap.bham.ac.uk/search/5d6f492b1e1f64009327b647?projectId=uob) - satellite event venue
+- [Precision Health Technologies Accelerator (PHTA)](https://phta.co.uk/meeting-rooms/) - main sprint venue
+- [Computer Centre (Elms Road)](https://campusmap.bham.ac.uk/search/5d6f492b1e1f64009327b647?projectId=uob) - satellite event venue
 
 ## PHTA rooms/spaces
 
-The sprint sessions all take place on the 4th floor of the PHTA building. 
-We have use of the following spaces:
+The sprint sessions all take place on the 4th floor of the PHTA building. We have use of the following spaces:
 
-| Room | Capacity | Type    | Layout             | Use                     |
-|------|----------|---------|--------------------|-------------------------|
-| 4.15 | 40       | Closed  | Tables in squares  | Main room               |
-| 4.12 | 6        | Closed  | Boardroom          | Hybrid meeting/breakout |
-| 4.13 | 10       | Closed  | Boardroom          | Hybrid meeting/breakout |
-| 4.25 | 6        | Closed  | Boardroom          | Hybrid meeting/breakout |
-| 4.28 | 10       | Closed  | Boardroom          | Hybrid meeting/breakout | 
-| Foyer | 6       | Open    | Lounge             | Quieter conversations   |  
-| Lounge | 40     | Open    | Lounge             | Social/refreshment space|
+| Room   | Capacity | Type   | Layout            | Use                      |
+|--------|----------|--------|-------------------|--------------------------|
+| 4.15   | 40       | Closed | Tables in squares | Main room                |
+| 4.12   | 6        | Closed | Boardroom         | Hybrid meeting/breakout  |
+| 4.13   | 10       | Closed | Boardroom         | Hybrid meeting/breakout  |
+| 4.25   | 6        | Closed | Boardroom         | Hybrid meeting/breakout  |
+| 4.28   | 10       | Closed | Boardroom         | Hybrid meeting/breakout  |
+| Foyer  | 6        | Open   | Lounge            | Quieter conversations    |
+| Lounge | 40       | Open   | Lounge            | Social/refreshment space |
 
 ## Computer Centre meeting room
 
-The satellite meeting will take place in G24 of the Computer Centre which 
-houses IT Services. 
+The satellite meeting will take place in G24 of the Computer Centre which houses IT Services.
