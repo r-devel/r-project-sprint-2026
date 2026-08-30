@@ -70,7 +70,7 @@ On the Friday, there is a satellite meeting of people from the R Core Team, the 
 
 Key venues of the sprint:
 
-- [Precision Health Technologies Accelerator (PHTA)](https://phta.co.uk/meeting-rooms/) - main sprint venue
+- [Precision Health Technologies Accelerator (PHTA), post code B29 6TH](https://phta.co.uk/meeting-rooms/) - main sprint venue
 - [Computer Centre (Elms Road)](https://campusmap.bham.ac.uk/search/5d6f492b1e1f64009327b647?projectId=uob) - satellite event venue
 
 ## PHTA rooms/spaces
