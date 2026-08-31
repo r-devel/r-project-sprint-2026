@@ -23,11 +23,11 @@ R is a popular and widely used software for data science. Like any large open so
 
 This sprint will bring together novice and experienced contributors, to work alongside members of the R Core Team. Participants will work collaboratively on contributions to base R. The tasks will be prepared in the run-up to the event, but may include:
 
--   Reviewing, analysing and fixing bugs reported on R's [Bugzilla](https://bugs.r-project.org/).
+- Reviewing, analysing and fixing bugs reported on R's [Bugzilla](https://bugs.r-project.org/).
 
--   Contributing to message translations via [Weblate](https://translate.rx.studio/projects/r-project/).
+- Contributing to message translations via [Weblate](https://translate.rx.studio/projects/r-project/).
 
--   Work on new developments proposed by core developers.
+- Work on new developments proposed by core developers.
 
 You can read about the previous edition in 2023 in [this R Journal article](https://journal.r-project.org/news/RJ-2023-3-sprint/).
 
@@ -38,7 +38,7 @@ The sprint will involve a mixture of invited and self-nominated participants, so
 The main criteria for participation is a good knowledge of R programming and a keen interest in contributing, as we hope participants continue to contribute after the event. The table below shows the type of knowledge/skills we expect participants to have
 
 | Skills most will have | Skills some will have |
-|:------------------------:|:--------------------------------------------:|
+|:-----------------------:|:----------------------------------:|
 | Writing R functions | Programming in C |
 | Debugging R functions | Knowledge of S3/S4 classes and methods |
 | Writing R help files | Expertise in statistical methods in **stats**, **splines** |
@@ -60,9 +60,9 @@ Funding is also available to cover participant travel and accommodation in stude
 
 ## Practicalities
 
-The sprint venue and accommodation details are being finalised, but will be on or very close to the Edgbaston campus of the University of Birmingham.\
+The sprint will take place at the Precision Health Technologies Accelerator (PHTA), next to the Edgbaston campus of the University of Birmingham. See the [Travel](travel.html#travel-to-sprint-venue-phta) page for getting to the venue from on-campus accommodation/hotels and the [Schedule](schedule.html) page for the schedule and room information.\
 \
-The Edgbaston campus is 3 miles South-West of Birmingham city centre. It is reachable by train from nearby European countries, or by plane to Birmingham International (BHX) or other UK airports. See the [travel information](https://www.birmingham.ac.uk/contact/directions/getting-here-edgbaston) and [visa](https://www.gov.uk/check-uk-visa) information for international visitors.
+The Edgbaston campus is 3 miles South-West of Birmingham city centre. It is reachable by train from nearby European countries, or by plane to Birmingham International (BHX) or other UK airports. See the [visa](https://www.gov.uk/check-uk-visa) information for international visitors.
 
 As travel funding is available, in-person participation is the default. However a small number of remote participants may be accommodated in exceptional circumstances (e.g. intermediate/advanced contributors with a low chance of a successful visa application). There is space to make a case for remote participation on the application form.
 
@@ -70,11 +70,11 @@ As travel funding is available, in-person participation is the default. However 
 
 Participants may be interested to know of these events happening close to the sprint:
 
--   7-8 September, [International Research Software Conference](https://www.researchsoft.org/irsc/), Sheffield
+- 7-8 September, [International Research Software Conference](https://www.researchsoft.org/irsc/), Sheffield
 
--   9-11 September, [RSECon26](https://rsecon26.society-rse.org/), Sheffield
+- 9-11 September, [RSECon26](https://rsecon26.society-rse.org/), Sheffield
 
--   7-10 September, [RSS International Conference](https://rss.org.uk/training-events/conference2026/), Bournemouth
+- 7-10 September, [RSS International Conference](https://rss.org.uk/training-events/conference2026/), Bournemouth
 
 31 August is a bank holiday in the UK, there are typically many festivals, fairs and other events over the long weekend at the end of the school summer holidays.
 

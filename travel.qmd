@@ -22,12 +22,13 @@ centre (tap the payment machine with your contactless card/phone as you get on
 the bus, you'll be charged £3 for each single journey up to a daily cap of 
 £5.50).
 
-Stops are announced and displayed on the bus. Get off at
+Stops are usually displayed on the bus and also have these names on Google maps. 
+Get off at
 
-* Aston House for Chamberlain Hall (reception closes at 10pm)
-* Vale Village for the Shackleton Building to check-in to Chamberlain Hall 
+* Aston House stop for Chamberlain Hall (reception closes at 10pm)
+* Vale Village stop for the Shackleton Building to check-in to Chamberlain Hall 
 after 10pm (reception open 24 hours)
-* Westmere for Peter Scott House/Edgbaston Park Hotel
+* Westmere stop for Peter Scott House/Edgbaston Park Hotel
 
 Total journey time should be around 50 minutes. Trains and buses do run until 
 late at night, but you may prefer Uber/Bolt from the airport in this case, 
@@ -67,27 +68,29 @@ that is open 8am-midnight.
 
 ## Travel to Sprint Venue (PHTA)
 
-The sprint will be held at the [Precision Health Technologies Accelerator (PHTA)](https://phta.co.uk/), postcode B29 6TH.
+The sprint will be held at the [Precision Health Technologies Accelerator (PHTA), on the Birmingham Health Innovation Campus, post code B29 6TH](https://campusmap.bham.ac.uk/search/5d6f492e1e1f64009327b6db?projectId=uob). 
+Google maps knows it as PHTA, for other apps use the post code.
 
 ### Bus (recommended)
 
 People staying at Chamberlain Hall, Edgbaston Park Hotel and Peter Scott House 
-are recommend to travel by bus. 
+are recommended to travel by bus. 
+Stops are usually displayed on the bus and also have these names on Google maps. 
 
 #### Chamberlain Hall
 
-Get the **X20** or **X21** from Vale Village (closest stop to breakfast venue) 
-to The Oleaster [(full directions from breakfast venue to sprint)](https://www.google.com/maps/dir/Vale+Village,+Birmingham+B15+2RE/PHTA,+Selly+Oak,+Birmingham+B29+6TH/@52.4519548,-1.942407,15z/data=!3m1!4b1!4m20!4m19!1m5!1m1!1s0x4870bc4c7cf2cbaf:0x3f2da2a3fffd5a9d!2m2!1d-1.925999!2d52.458099!1m5!1m1!1s0x4870bd083003471d:0x7cb997b3f3cf89fe!2m2!1d-1.9389699!2d52.4458031!2m4!4e3!6e1!7e2!8j1788253200!3e3!5i2?entry=ttu&g_ep=EgoyMDI2MDgyNi4wIKXMDSoASAFQAw%3D%3D), **journey time 25 minutes**.
+Get the **X20** or **X21** bus from the Vale Village stop (closest stop to the breakfast venue) 
+and get off at The Oleaster stop [(full directions from breakfast venue to sprint)](https://www.google.com/maps/dir/Vale+Village,+Birmingham+B15+2RE/PHTA,+Selly+Oak,+Birmingham+B29+6TH/@52.4519548,-1.942407,15z/data=!3m1!4b1!4m20!4m19!1m5!1m1!1s0x4870bc4c7cf2cbaf:0x3f2da2a3fffd5a9d!2m2!1d-1.925999!2d52.458099!1m5!1m1!1s0x4870bd083003471d:0x7cb997b3f3cf89fe!2m2!1d-1.9389699!2d52.4458031!2m4!4e3!6e1!7e2!8j1788253200!3e3!5i2?entry=ttu&g_ep=EgoyMDI2MDgyNi4wIKXMDSoASAFQAw%3D%3D), **journey time 25 minutes**.
 
 Getting the **X22** from Vale Village is also possible, but you need to get off 
 at the University Station stop and walk from there, which takes a few more minutes.
 
 #### Edgbaston Park Hotel/Peter Scott House 
 
-Get the **X20** or **X21** from Westmere (stop on road outside hotel) 
-to The Oleaster [(full directions from hotel to sprint)](https://www.google.com/maps/dir/Edgbaston+Park+Hotel+and+Conference+Centre,+53+Edgbaston+Park+Rd,+Birmingham+B15+2RS/PHTA,+Selly+Oak,+Birmingham+B29+6TH/@52.4502595,-1.942407,15z/data=!3m1!4b1!4m19!4m18!1m5!1m1!1s0x4870bc4af1ef4715:0x7405976418d394d1!2m2!1d-1.9271455!2d52.453993!1m5!1m1!1s0x4870bd083003471d:0x7cb997b3f3cf89fe!2m2!1d-1.9389699!2d52.4458031!2m4!4e3!6e1!7e2!8j1788253200!3e3?entry=ttu&g_ep=EgoyMDI2MDgyNi4wIKXMDSoASAFQAw%3D%3D), **journey time 15 minutes**.
+Get the **X20** or **X21** from Westmere (bus stop on the road outside the hotel) 
+and get off at The Oleaster stop [(full directions from the hotel to the sprint)](https://www.google.com/maps/dir/Edgbaston+Park+Hotel+and+Conference+Centre,+53+Edgbaston+Park+Rd,+Birmingham+B15+2RS/PHTA,+Selly+Oak,+Birmingham+B29+6TH/@52.4502595,-1.942407,15z/data=!3m1!4b1!4m19!4m18!1m5!1m1!1s0x4870bc4af1ef4715:0x7405976418d394d1!2m2!1d-1.9271455!2d52.453993!1m5!1m1!1s0x4870bd083003471d:0x7cb997b3f3cf89fe!2m2!1d-1.9389699!2d52.4458031!2m4!4e3!6e1!7e2!8j1788253200!3e3?entry=ttu&g_ep=EgoyMDI2MDgyNi4wIKXMDSoASAFQAw%3D%3D), **journey time 15 minutes**.
 
-Getting the **X22** from Westmere is also possible, but you need to get off 
+Getting the **X22** from the Westmere bus stop is also possible, but you need to get off 
 at the University Station stop and walk from there, which takes a few more minutes.
 
 ### Walking
