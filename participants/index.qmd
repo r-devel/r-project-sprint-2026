@@ -298,13 +298,13 @@ participant_info(name = "David Munoz Tord",
 ::: {}
 ```{r, results = "asis"}
 participant_info(name = "Elio Campitelli*",
-                 affiliation = "University of Buenos Aires",
+                 affiliation = "Monash University",
                  pic = "/participants/optimized/MJ739-elio-campitelli.jpg",
                  alt = "Headshot of Elio Campitelli",
                  web = "https://eliocamp.github.io/", # main website
                  link = "https://eliocamp.github.io/",
                  mastodon = "https://mastodon.social/@eliocamp",
-                 github = "https://eliocamp.github.io/")
+                 github = "https://github.com/eliocamp")
 ```
 :::
 
@@ -441,11 +441,11 @@ participant_info(name = "Ossama Edbali",
 ::: {}
 ```{r, results = "asis"}
 participant_info(name = "Paola Corrales",
-                 affiliation = "UBA-CIMA-CONICET",
+                 affiliation = "21st Century Weather - ANU",
                  pic = "/participants/optimized/LGYDV-pao_corrales.jpg",
                  alt = "Headshot of Paola Corrales",
                  web = "https://paocorrales.github.io/ ", # main website
-                 link = "https://paocorrales.github.io/ ",
+                 github = "https://paocorrales.github.io/ ",
                  mastodon = "https://fosstodon.org/@paocorrales")
 ```
 :::
