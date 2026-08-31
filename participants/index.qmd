@@ -282,16 +282,16 @@ participant_info(name = "Claudio Fronterre",
 
 ::: {}
 ```{r, results = "asis"}
-participant_info(name = "David Munoz Tord",
-                 affiliation = "We Days",
+participant_info(name = "David Muñoz Tord",
+                 affiliation = "We Data",
                  pic = "/participants/optimized/SZ99H-david-munoz-tord.jpg",
                  alt = "Headshot of David Munoz Tord",
                  web = "https://munoztd0.github.io/homepage/", # main website
-                 link = "https://munoztd0.github.io/homepage/",
+                 link = "https://wedata.ch/",
                  mastodon = NULL,
-                 github = NULL,
-                 twitter = NULL,
-                 linkedin = NULL)
+                 github = "https://github.com/munoztd0",
+                 twitter = "https://x.com/tord_munoz",
+                 linkedin = "https://www.linkedin.com/in/david-munoz-tord-409639150/")
 ```
 :::
 
