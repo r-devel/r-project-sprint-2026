@@ -14,22 +14,22 @@ Organizers will enforce this code throughout and expect cooperation in ensuring 
 
 All conference participants agree to:
 
--   Be considerate in language and actions, and respect the boundaries of fellow participants.
--   Refrain from demeaning, discriminatory, or harassing behaviour and language. Please refer to [Unacceptable Behaviour](#unacceptable-behaviour) for more details.
--   Alert a member of the organizing team if you notice someone in distress, or observe violations of this code of conduct, even if they seem inconsequential. Please refer to the section titled [What To Do If You Witness or Are Subject To Unacceptable Behaviour](#what-to-do-if-you-witness-or-are-subject-to-unacceptable-behaviour) for more details.
+- Be considerate in language and actions, and respect the boundaries of fellow participants.
+- Refrain from demeaning, discriminatory, or harassing behaviour and language. Please refer to [Unacceptable Behaviour](#unacceptable-behaviour) for more details.
+- Alert a member of the organizing team if you notice someone in distress, or observe violations of this code of conduct, even if they seem inconsequential. Please refer to the section titled [What To Do If You Witness or Are Subject To Unacceptable Behaviour](#what-to-do-if-you-witness-or-are-subject-to-unacceptable-behaviour) for more details.
 
 ## Unacceptable Behaviour {#unacceptable-behaviour}
 
 Behaviour that is unacceptable includes, but is not limited to:
 
--   Stalking
--   Deliberate intimidation
--   Unwanted photography or recording
--   Sustained or willful disruption of talks or other events
--   Use of sexual or discriminatory imagery, comments, or jokes
--   Offensive comments related to age, gender, sexual orientation, disability, race or religion
--   Inappropriate physical contact, which can include grabbing, or massaging or hugging without consent.
--   Unwelcome sexual attention, which can include inappropriate questions of a sexual nature, asking for sexual favours or repeatedly asking for dates or contact information.
+- Stalking
+- Deliberate intimidation
+- Unwanted photography or recording
+- Sustained or willful disruption of talks or other events
+- Use of sexual or discriminatory imagery, comments, or jokes
+- Offensive comments related to age, gender, sexual orientation, disability, race or religion
+- Inappropriate physical contact, which can include grabbing, or massaging or hugging without consent.
+- Unwelcome sexual attention, which can include inappropriate questions of a sexual nature, asking for sexual favours or repeatedly asking for dates or contact information.
 
 If you are asked to stop harassing behaviour you should stop immediately, even if your behaviour was meant to be friendly or a joke, it was clearly not taken that way and for the comfort of all conference attendees you should stop.
 
@@ -43,17 +43,17 @@ Presentation slides and documents created for, or during, the sprint should not 
 
 The organizing team reserves the right to determine the appropriate response for all code of conduct violations. Potential responses include:
 
--   a formal warning to stop harassing behaviour
--   cancellation or early termination of presentations or other contributions to the programme
--   expulsion from the sprint
--   removal/rejection of sprint contributions
--   removal of sponsorship acknowledgement, without return of sponsorship contribution
+- a formal warning to stop harassing behaviour
+- cancellation or early termination of presentations or other contributions to the programme
+- expulsion from the sprint
+- removal/rejection of sprint contributions
+- removal of sponsorship acknowledgement, without return of sponsorship contribution
 
 ## What To Do If You Witness or Are Subject To Unacceptable Behaviour {#what-to-do-if-you-witness-or-are-subject-to-unacceptable-behaviour}
 
 Alert the organizing team if you notice someone in distress, or observe violations of this code of conduct, even if they seem inconsequential.
 
-Reports should be addressed to [r-project-sprint-coc\@groups.io](mailto:r-project-sprint-coc@groups.io). If the report concerns someone on the [local](/index#local-organizing-team)[organizing team](/index#Local-organizing-team), please contact other members of the team directly.\
+Reports should be sent via a a direct message to the `moderators` group on the R Project Zulip (type `moderators` in the “Add users” dialog box - this will expand to show everyone in the moderators group, so you can exclude individuals if necessary). You can view the current [moderators](https://r-project.zulipchat.com/#groups/1729199/moderators/members) if you want to check who has access to this channel.\
 \
 <!-- If you still have concerns about a conflict of interest, you are welcome to contact ... -->
 
@@ -63,9 +63,9 @@ We will respect confidentiality requests for the purpose of protecting targets o
 
 The organizing team will also provide support to victims, which may include:
 
--   providing an escort,
+- providing an escort,
 
--   contacting the on-campus Security Team or off campus Emergency Services,
+- contacting the on-campus Security Team or off campus Emergency Services,
 
 or otherwise assisting those experiencing harassment to ensure that they feel safe for the duration of the conference. Assistance will only be provided with affirmative consent of the victim.
 
